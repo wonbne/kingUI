@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kingUI/static/css/main.4352f9cb.css",
+    "main.js": "/kingUI/static/js/main.c45b30c2.js",
+    "static/js/488.ff554c6d.chunk.js": "/kingUI/static/js/488.ff554c6d.chunk.js",
+    "index.html": "/kingUI/index.html",
+    "main.4352f9cb.css.map": "/kingUI/static/css/main.4352f9cb.css.map",
+    "main.c45b30c2.js.map": "/kingUI/static/js/main.c45b30c2.js.map",
+    "488.ff554c6d.chunk.js.map": "/kingUI/static/js/488.ff554c6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4352f9cb.css",
+    "static/js/main.c45b30c2.js"
+  ]
+}
